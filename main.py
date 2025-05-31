@@ -2,7 +2,7 @@ import requests
 import csv
 import time
 
-API_KEY = 'AIzaSyB61CsFlwZ6XZTYd2S4p6BifWj_Av6Dwv0'
+API_KEY = 'Votre_API_KEY_Ici'  # Remplacez par votre clé API Google Maps
 
 zones = [
     # Dakar
